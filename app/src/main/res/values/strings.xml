@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+
+    <string name="error_network">a network error has occurred</string>
+    <string name="error_fetch_characters">Impossible to fetch characters</string>
+    <string name="error_parsing_data">Impossible to parse data</string>
+
+    <string name="com_loading">Loading…</string>
+
+    <string name="character_empty_description">No description available</string>
+
+</resources>
